@@ -21,13 +21,6 @@ def negative_assert(kit_name):
 
     assert kit_response.status_code == 400
 
-#Corrección (esta función estaba abajo junto con los tests):
-#Preparación Prueba 8:
-def negative_assert_no_name(kit_body):
-    response = sender_stand_request.post_new_client_kit(kit_body)
-
-    assert response.status_code == 400
-
 #Prueba 1. El número permitido de caracteres (1):
 def test_create_kit_1_letter_in_name_get_success_response():
     positive_assert(data.kit_body_name_t1)
