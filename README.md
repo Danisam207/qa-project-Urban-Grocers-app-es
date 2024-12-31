@@ -5,6 +5,9 @@ Contenido
 Descripción
 
 Lista de comprobación
+
 Archivos del Proyecto
+
 Recursos
+
 Instrucciones para las pruebas
