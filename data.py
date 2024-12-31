@@ -7,3 +7,7 @@ user_body = {
     "phone": "+856214736978",
     "address": "8042 Lancaster Ave.Hamburg, NY"
 }
+
+kit_body = {
+  "name": "Nombre"
+}
