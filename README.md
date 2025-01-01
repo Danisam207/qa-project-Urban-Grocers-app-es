@@ -10,3 +10,8 @@ Descripción
 
 El objetico es comprobar que la aplicación Urban Grocers crea kits de productos. Hacer pruebas positivas y negativas para el campo “name” es la parte medular de
 dicho proyecto tomado en cuenta la lista de comprobación que se nos ha proporcionado enfocando nuestra atención en los resultados esperados.
+
+Lista de comprobación
+
+|No.| Description| ER|
+
