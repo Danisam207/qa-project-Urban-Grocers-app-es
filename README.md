@@ -14,4 +14,6 @@ dicho proyecto tomado en cuenta la lista de comprobación que se nos ha proporci
 Lista de comprobación
 
 |No.| Description| ER|
+----------------------
+|1| 
 
