@@ -27,7 +27,7 @@ Lista de comprobación
 |     |cantidad permitida (512):                  |                                                                                      |  
 |     |kit_body = { "name":"El valor de prueba    |                                                                                      |
 |     |para esta comprobación será inferior a” }  |                                                                                      |
-|  5  |Se permiten caracteres especiales:         |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   |
+|  5  |Se permiten caracteres especiales:         |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   | 
 |     |kit_body = { "name": ""№%@"," }            |campo "name" del cuerpo de la solicitud                                               |
 |  6  |Se permiten espacios:                      |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   | 
 |     |kit_body = { "name": " A Aaa " }           |campo "name" del cuerpo de la solicitud                                               |
