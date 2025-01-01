@@ -40,3 +40,14 @@ Archivos del Proyecto
 
   •	.gitignore: Incluye los archivos que no se deben subir a los repositorios.
 
+Recursos
+
+Paquetes instalados
+
+1.	Pytest
+2.	Paqueterias en paytest
+
+Documentación
+
+•	API docs Urban Groucers “ https://cnt-c9838ccb-d8db-4325-b370-53a0ed2bebcb.containerhub.tripleten-services.com/docs/”
+
