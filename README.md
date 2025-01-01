@@ -28,15 +28,15 @@ Lista de comprobación
 
 Archivos del Proyecto
 
-•	configuration.py: Este archivo contiene el URL y las rutas de solicitud.
+    •	configuration.py: Este archivo contiene el URL y las rutas de solicitud.
 
-•	data.py: Este archivo contiene los cuerpos necesarios para las solicitudes.
+    •	data.py: Este archivo contiene los cuerpos necesarios para las solicitudes.
 
-•	sender_stand_request.py: Este archivo contiene todas las solicitudes para POST para crear una cuenta de usuario y crear un kit.
+    •	sender_stand_request.py: Este archivo contiene todas las solicitudes para POST para crear una cuenta de usuario y crear un kit.
 
-•	create_kit_name_kit_test.py: Este archivo contiene todos los tests.
+    •	create_kit_name_kit_test.py: Este archivo contiene todos los tests.
 
-•	README.md: Este archivo incluye una descripción del proyecto.
+    •	README.md: Este archivo incluye una descripción del proyecto.
 
-•	.gitignore: Incluye los archivos que no se deben subir a los repositorios.
+    •	.gitignore: Incluye los archivos que no se deben subir a los repositorios.
 
