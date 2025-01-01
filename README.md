@@ -17,4 +17,6 @@ Lista de comprobación
 |-----|-------------------------------------------|--------------------------------------------------------------------------------------|
 |  1  |El número permitido de caracteres (1):     |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   |
 |     |kit_body = { "name": "a"}                  |campo "name" del cuerpo de la solicitud                                               |
-|-----|-------------------------------------------|--------------------------------------------------------------------------------------|
+|  2  |El número permitido de caracteres (511):   |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   |
+|     |kit_body = { "name":"El valor de prueba    |campo "name" del cuerpo de la solicitud                                               |
+|     |para esta comprobación será inferior a"}|  |                                                                                      |
