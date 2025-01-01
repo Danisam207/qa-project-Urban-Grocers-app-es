@@ -15,5 +15,5 @@ Lista de comprobación
 
 | No. |               Description                 |                         ER                                                           | 
 |-----|-------------------------------------------|--------------------------------------------------------------------------------------|
-|  1  |El número permitido de caracteres (1):     |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   
+|  1  |El número permitido de caracteres (1):      Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   
 |      kit_body = { "name": "a"}                  |campo "name" del cuerpo de la solicitud                                               |
