@@ -13,9 +13,9 @@ dicho proyecto tomado en cuenta la lista de comprobación que se nos ha proporci
 
 Lista de comprobación
 
-| No. |               Description                 |                         ER                                                           | 
-|-----|-------------------------------------------|--------------------------------------------------------------------------------------|
-|  1  |El número permitido de caracteres (1):     |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con elcampo "name" del cuerpo de                                                   | la solicitud     |
+| No. |               Description                 |                         ER                                                                                 | 
+|-----|-------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+|  1  |El número permitido de caracteres (1):     |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con elcampo "name" del cuerpo de                                                    la solicitud                                                                                                |
 |     |kit_body = { "name": "a"}                  |                                             |
 |  2  |El número permitido de caracteres (511):   |Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el   |
 |     |kit_body = { "name":"El valor de prueba    |campo "name" del cuerpo de la solicitud                                               |
