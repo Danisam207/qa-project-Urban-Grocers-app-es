@@ -13,7 +13,7 @@ dicho proyecto tomado en cuenta la lista de comprobación que se nos ha proporci
 
 Lista de comprobación
 
-|No.| Description| ER|
-----------------------
-|1| El número permitido de caracteres (1): kit_body = { "name": "a"}| Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el campo "name" del cuerpo de la solicitud| 
+| No.| Description |  ER |
+--------------------------
+| 1 | El número permitido de caracteres (1): kit_body = { "name": "a"} | Código de respuesta: 201 El campo "name" del cuerpo de la respuesta coincide con el campo "name" del cuerpo de la solicitud | 
 
