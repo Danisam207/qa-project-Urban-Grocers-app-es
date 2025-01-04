@@ -53,7 +53,7 @@ Documentación
 
 Instrucciones
 
-o Ejecutar las pruebas a traves de Paycharm: hacuendo uso de la terminal escribir pytest create_kit_name_kit_test.py
+o Ejecutar las pruebas a traves de Paycharm: haciendo uso de la terminal escribir pytest create_kit_name_kit_test.py
 
 o Ejecutar todas las pruebas a traves de la interfaz de Paycharm haciendo clic en el triangulo verde de la parte superior.
 
