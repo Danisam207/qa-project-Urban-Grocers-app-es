@@ -51,3 +51,12 @@ Documentación
 
 •	API docs Urban Groucers “ https://cnt-c9838ccb-d8db-4325-b370-53a0ed2bebcb.containerhub.tripleten-services.com/docs/”
 
+Instrucciones
+
+o Ejecutar las pruebas a traves de Paycharm: hacuendo uso de la terminal escribir pytest create_kit_name_kit_test.py
+o Ejecutar todas las pruebas a traves de la interfaz de Paycharm haciendo clic en el triangulo verde de la parte superior.
+
+Nota: asegurarse que se este ejecutando el archivo correcto, de lo contrario se debe seleccionar "current file" antes de ejecutar la prueba.
+o Algunas pruebas devolveran un resultado "failed" la cual es normal ya que es un resultado esperado en algunas pruebas.
+
+
